@@ -31,7 +31,7 @@ public class Calculator extends JFrame {
 
 	 /**
 	 *
-	 * @author Ghassen ben taher
+	 * @author Bentaherghassen
 	 * 
 	 */
 	
